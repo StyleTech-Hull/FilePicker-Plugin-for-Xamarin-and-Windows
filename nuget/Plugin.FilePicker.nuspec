@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
    <metadata minClientVersion="2.8.1">
-       <id>Xamarin.Plugin.FilePicker</id>
-       <version>2.0.0-beta</version>
+       <id>STS.Xamarin.Plugin.FilePicker</id>
+       <version>2.0.70-beta</version>
        <title>FilePicker Plugin for Xamarin.Forms</title>
        <authors>Gerald Versluis, rafaelrmou, vividos</authors>
        <owners>Gerald Versluis</owners>
-       <licenseUrl>https://github.com/jfversluis/FilePicker-Plugin-for-Xamarin-and-Windows/blob/master/LICENSE</licenseUrl>
-       <projectUrl>https://github.com/jfversluis/FilePicker-Plugin-for-Xamarin-and-Windows</projectUrl>
+       <licenseUrl>https://github.com/StyleTech-Hull/FilePicker-Plugin-for-Xamarin-and-Windows/blob/master/LICENSE</licenseUrl>
+       <projectUrl>https://github.com/StyleTech-Hull/FilePicker-Plugin-for-Xamarin-and-Windows</projectUrl>
        <!-- <iconUrl>https://github.com/jfversluis/FilePicker-Plugin-for-Xamarin-and-Windows</iconUrl> -->
        <requireLicenseAcceptance>false</requireLicenseAcceptance>
        <description>

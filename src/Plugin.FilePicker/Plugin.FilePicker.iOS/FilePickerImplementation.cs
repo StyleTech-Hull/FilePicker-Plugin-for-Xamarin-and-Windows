@@ -126,7 +126,9 @@ namespace Plugin.FilePicker
                 UTType.MP3,
                 UTType.WaveformAudio,
                 UTType.AppleProtectedMPEG4Audio,
-                "public.aac-audio"
+                "public.aac-audio",
+                UTType.ZipArchive,
+                UTType.RawImage,
             };
 
             var importMenu =
